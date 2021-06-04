@@ -21,25 +21,7 @@
             }
         </style>
     </head>
-    <body class="antialiased">
-        <h1>Hi from Github!</h1>
-<<<<<<< HEAD
-        <h1>Nurbek</h1>
-=======
-        <h2>SHohruh</h2>
-<<<<<<< HEAD
-<<<<<<< HEAD
-        <p>Elyor Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores, odit.</p>
-     <h3>Norboyev</h3>
-=======
-		<h2>Ismoil</h2>
->>>>>>> dbf0b41ea90bc8932e3a8c57baf3ae11469d2580
->>>>>>> f2d28043905ae5b9e7f6f96557ddb248c06229b4
-        <h1>Nurbek</h1>
-=======
 
->>>>>>> 2f87f90a5795ce86ffeff10852ad64ec04fcd521
-    </body>
 </html>
 =======
           <style>
@@ -49,9 +31,7 @@
           </style>
       </head>
       <body class="antialiased">
-          <h1>Hi from Github!</h1>
-          <h2>SHohruh</h2>
-          <h3>Lochin aka</h3>
+          
           <h1>Nurbek</h1>
       </body>
   </html>
