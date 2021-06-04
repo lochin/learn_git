@@ -23,5 +23,7 @@
     <body class="antialiased">
         <h1>Hi from Github!</h1>
         <h2>SHohruh</h2>
+        <p>Elyor Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores, odit.</p>
+     <h3>Norboyev</h3>  
     </body>
 </html>
